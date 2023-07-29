@@ -1,4 +1,6 @@
 # FullHouse
+[![CI/CD](https://github.com/codemascot/FullHouse/actions/workflows/ci-cd.yaml/badge.svg)](https://github.com/codemascot/FullHouse/actions/workflows/ci-cd.yaml)
+
 A .net7 class library which tells whether the hand have *a four of a kind*, *a full house* or *neither* of them.
 
 ## Packages & Tools
